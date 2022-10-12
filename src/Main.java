@@ -1,4 +1,7 @@
 
+//Autores
+//Carlos Esteban Bello Salinas,
+
 import java.util.Scanner;
 
 public class Main {
