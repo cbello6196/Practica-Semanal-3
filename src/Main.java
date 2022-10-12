@@ -1,6 +1,7 @@
 
 //Autores
 //Carlos Esteban Bello Salinas,
+//Nahun David Castro Vega
 
 import java.util.Scanner;
 
